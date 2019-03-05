@@ -1,12 +1,12 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Techathon'
+subtitle: 'Hunting for Khubilai Khan'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/work/Techathon/NCTU.png'
+featured_image: '/images/work/Techathon/NCUTxNPM_Hunting for Khubilai Khan .png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/work/Techathon/Features Hunting for Khubilai Khan.png)
 
 ## Demo content
 
@@ -29,8 +29,6 @@ And:
 3. Are great too
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
 
 The theme also supports markdown tables:
 

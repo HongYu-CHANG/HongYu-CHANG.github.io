@@ -9,7 +9,7 @@ collections:
     permalink: /blog/:slug
   works:
     output: true
-    permalink: /work/:slug
+    permalink: /works/:slug
 
 defaults:
   -

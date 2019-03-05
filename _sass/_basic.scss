@@ -378,14 +378,14 @@ section {
 
 	@include mq(tabletp) {
 		padding: 0;
-		max-width: 70%;
+		max-width: 83%;
 	}
 
 	@include mq(tabletl) {
-		max-width: 65%;
+		max-width: 78%;
 	}
 
 	@include mq(laptop) {
-		max-width: 60%;
+		max-width: 73%;
 	}
 }

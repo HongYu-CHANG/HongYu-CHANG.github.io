@@ -38,15 +38,15 @@
 		@include mq(tabletp) {
 			padding-left: 0;
 			padding-right: 0;
-			max-width: 70%;
+			max-width: 83%;
 		}
 
 		@include mq(tabletl) {
-			max-width: 65%;
+			max-width: 78%;
 		}
 
 		@include mq(laptop) {
-			max-width: 60%;
+			max-width: 73%;
 		}
 	}
 
@@ -61,15 +61,15 @@
 			margin-left: auto;
 			margin-right: auto;
 			width: auto;
-			max-width: 70%;
+			max-width: 83%;
 		}
 
 		@include mq(tabletl) {
-			max-width: 65%;
+			max-width: 78%;
 		}
 
 		@include mq(laptop) {
-			max-width: 60%;
+			max-width: 73%;
 		}
 	}
 
@@ -109,16 +109,16 @@
 
 		@include mq(tabletp) {
 			margin: 30px auto;
-			max-width: 70%;
+			max-width: 83%;
 		}
 
 		@include mq(tabletl) {
-			max-width: 65%;
+			max-width: 78%;
 		}
 
 		@include mq(laptop) {
 			margin: 40px auto;
-			max-width: 60%;
+			max-width: 73%;
 		}
 	}
 
@@ -198,14 +198,17 @@
 
 	@include mq(tabletp) {
 		margin: 30px auto;
+		max-width: 83%;
 	}
 
 	@include mq(laptop) {
 		margin: 40px auto;
+		max-width: 78%;
 	}
 
 	&:first-child {
 		margin-top: 0;
+		max-width: 73%;
 	}
 }
 
