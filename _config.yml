@@ -32,9 +32,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "works"
     values:
-      layout: "project"
+      layout: "work"
 
 markdown: kramdown
 
