@@ -23,7 +23,7 @@ footer_settings:
   footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
 
 grid_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.5
   grid_spacing: 10
 
 contact_settings:
