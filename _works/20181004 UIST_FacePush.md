@@ -5,46 +5,12 @@ date: 2018-10-04 00:00:00
 description: 
 featured_image: '/images/work/UIST 2018/FacePush Cover.png'
 ---
-[dddd](https://bito.tv/project/630/)
-![](/images/work/IDVR 2017/CatchtheButterfly Cover.png)
+<iframe src="https://player.vimeo.com/video/320442816" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Demo content
+## Introduction
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+This paper presents FacePush, a Head-Mounted Display (HMD) integrated with a pulley system to generate normal forces on a user's face in virtual reality (VR). The mechanism of FacePush is obtained by shifting torques provided by two motors that press upon a user's face via utilization of a pulley system. FacePush can generate normal forces of varying strengths and apply those to the surface of the face. To inform our design of FacePush for noticeable and discernible normal forces in VR applications, we conducted two studies to identify the absolute detection threshold and the discrimination threshold for users' perception. After further consideration in regard to user comfort, we determined that two levels of force, 2.7 kPa and 3.375 kPa, are ideal for the development of the FacePush experience via implementation with three applications which demonstrate use of discrete and continuous normal force for the actions of boxing, diving, and 360 guidance in virtual reality. In addition, with regards to a virtual boxing application, we conducted a user study evaluating the user experience in terms of enjoyment and realism and collected the user's feedback. 
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
 	<img src="/images/demo/demo-portrait.jpg">
@@ -53,46 +19,7 @@ Here's a really neat custom feature we added – galleries:
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
+### Credit
 
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
