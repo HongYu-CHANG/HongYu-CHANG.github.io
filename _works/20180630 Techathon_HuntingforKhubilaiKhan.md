@@ -1,6 +1,6 @@
 ---
-title: 'Techathon'
-subtitle: 'Hunting for Khubilai Khan'
+title: 'Hunting for Khubilai Khan'
+subtitle: 'Techathon @ Hsinchu'
 date: 2018-06-30 00:00:00
 description: 
 featured_image: '/images/work/Techathon/HuntingforKhubilaiKhan Cover.png'

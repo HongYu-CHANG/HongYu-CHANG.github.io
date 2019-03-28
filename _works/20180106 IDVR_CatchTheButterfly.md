@@ -1,6 +1,6 @@
 ---
-title: 'IDVR 2017'
-subtitle: 'Catch the Butterfly'
+title: 'Catch the Butterfly'
+subtitle: 'IDVR 2017 @ Hsinchu'
 date: 2018-01-06 00:00:00
 description: 
 featured_image: '/images/work/IDVR 2017/CatchtheButterfly Cover.png'
