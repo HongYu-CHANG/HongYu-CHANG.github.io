@@ -7,6 +7,13 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ![](/images/demo/demo-landscape.jpg)
 
+| Item                 | Author        | Supports tables? | Price |
+|----------------------|---------------|------------------|-------|
+| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
+| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
+| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
+|![](/images/demo/demo-landscape.jpg)|ddd|ddd|ddd
+
 ## Features
 
 We've packed Duet full of powerful features to help showcase your work:
