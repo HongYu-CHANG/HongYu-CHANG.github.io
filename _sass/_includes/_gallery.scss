@@ -107,7 +107,8 @@
 
 	.gallery__item__link {
 		display: block;
-		cursor: zoom-in;
+		pointer-events: none; //註解這行可以讓圖片放大顯示
+		// cursor: zoom-in; // 解開這行可以讓圖片放大
 	}
 
 	&[data-columns="3"] {
