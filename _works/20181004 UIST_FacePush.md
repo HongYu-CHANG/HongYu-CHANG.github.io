@@ -16,19 +16,22 @@ This paper presents FacePush, a Head-Mounted Display (HMD) integrated with a pul
 </div>
 <div class="gallery" data-columns="2">
     <img src="/images/work/UIST2018/FacePush_HsinRong.png">
-    <img src="/images/work/UIST2018/FacePush_Boxing.png">
+    <img src="/images/work/UIST2018/FacePush_Boxing1.png">
 </div>
+
+<div class="gallery" data-columns="2">
+        <img src="/images/work/UIST2018/FacePush_Boxing2.png">
+        <img src="/images/work/UIST2018/FacePush_Anny3.png">
+</div>
+
 <div class="gallery" data-columns="3">
-    <img src="/images/work/UIST2018/FacePush_DivingFish.png"> 
-    <img src="/images/work/UIST2018/FacePush_Anny1.png">
-    <img src="/images/work/UIST2018/FacePush_DivingShark.png">
+    <img src="/images/work/UIST2018/FacePush_Anny4.png"> 
+    <img src="/images/work/UIST2018/FacePush_Anny5.png">
+    <img src="/images/work/UIST2018/FacePush_Anny6.png">
 </div>
 <div class="gallery" data-columns="2">
-        <img src="/images/work/UIST2018/FacePush4.png">
-        <img src="/images/work/UIST2018/FacePush5.png">
-</div>
-<div class="gallery" data-columns="1">
-    <img src="/images/work/UIST2018/FacePush_Anny2.png">
+<img src="/images/work/UIST2018/FacePush_DivingShark.png">
+<img src="/images/work/UIST2018/FacePush_Fishing.png">
 </div>
 
 ---
