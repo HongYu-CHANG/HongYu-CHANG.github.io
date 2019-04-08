@@ -19,9 +19,9 @@ This paper presents FacePush, a Head-Mounted Display (HMD) integrated with a pul
     <img src="/images/work/UIST2018/FacePush_Boxing.png">
 </div>
 <div class="gallery" data-columns="3">
-    <img src="/images/work/UIST2018/FacePush_Diving1.png"> 
+    <img src="/images/work/UIST2018/FacePush_DivingFish.png"> 
     <img src="/images/work/UIST2018/FacePush_Anny1.png">
-    <img src="/images/work/UIST2018/FacePush_Diving2.png">
+    <img src="/images/work/UIST2018/FacePush_DivingShark.png">
 </div>
 <div class="gallery" data-columns="2">
         <img src="/images/work/UIST2018/FacePush4.png">
