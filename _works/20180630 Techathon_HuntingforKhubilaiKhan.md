@@ -6,93 +6,37 @@ description:
 featured_image: '/images/work/Techathon/HuntingforKhubilaiKhan Cover.png'
 ---
 
-![](/images/work/Techathon/HuntingforKhubilaiKhan Features.png)
+<iframe src="https://player.vimeo.com/video/274839879" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-## Demo content
+## Introduction
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+"Hunting for Khubilai Khan" is a virtual reality game inspired by Khubilai Khan Hunting and Ayusi Scattering Rebels with Upraised Spear, which features the experience of actual hunting and shooting. Players are able to sense the reaction of the bowstring when shooting with the bow installation, and also control the velocity of their ride with the upper leg pressure sensor when simulating the action of horse-riding.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+The player must hunt down different wild animals for Khubilai Khan, including rabbits, wolves, deer, geese, etc., and accumulate points according to the number of their catch in order to claim their reward from the great Khan. This virtual reality horseback game integrates the renowned painting of Khubilai Khan Hunting, recreating the experience of the Yuan dynasty horseback hunters and how they displayed gallantry with bow and arrow while galloping across the boundless northern deserts in the golden era of hunting.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+Artifact inspiration: Khubilai Khan Hunting, Liu Guandao, Yuan Dynasty; Ayusi Scattering Rebels with Upraised Spear, Giuseppe Castiglione, Qing Dynasty
+ 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+    <img src="/images/work/UIST2018/FacePush_BrainD.png">
+</div>
+<div class="gallery" data-columns="2">
+    <img src="/images/work/UIST2018/FacePush_HsinRong.png">
+    <img src="/images/work/UIST2018/FacePush_Boxing1.png">
 </div>
 
-### What about videos?
+<div class="gallery" data-columns="2">
+        <img src="/images/work/UIST2018/FacePush_Boxing2.png">
+        <img src="/images/work/UIST2018/FacePush_Anny3.png">
+</div>
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+<div class="gallery" data-columns="3">
+    <img src="/images/work/UIST2018/FacePush_Anny4.png"> 
+    <img src="/images/work/UIST2018/FacePush_Anny5.png">
+    <img src="/images/work/UIST2018/FacePush_Anny6.png">
+</div>
+<div class="gallery" data-columns="2">
+<img src="/images/work/UIST2018/FacePush_DivingShark.png">
+<img src="/images/work/UIST2018/FacePush_Fishing.png">
+</div>
 
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>

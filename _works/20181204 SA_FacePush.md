@@ -17,17 +17,3 @@ Simulated haptics is a key component to enhance immersion in virtual environment
 <img src="/images/work/SIGGRAPHAsia2018/FacePush3.png">
 <img src="/images/work/SIGGRAPHAsia2018/FacePush4.png">
 </div>
-
----
-
-### Credit
-
-Year: 2018
-
-Organizer: National Chiao Tung University
-
-Location: Tokyo International Forum＠Tokyo, Japan
-
-Author: Hong-Yu Chang Wen-Jie Tseng Chia-En Tsai Hsin-Yu ChenRoshan Lalintha Peiris Liwei Chan
-
-Related Links: [paper](https://dl.acm.org/citation.cfm?id=3275480)  [website](https://sa2018.siggraph.org/en)

@@ -33,18 +33,3 @@ This paper presents FacePush, a Head-Mounted Display (HMD) integrated with a pul
 <img src="/images/work/UIST2018/FacePush_DivingShark.png">
 <img src="/images/work/UIST2018/FacePush_Fishing.png">
 </div>
-
----
-
-### Credit
-
-Year: 2018
-
-Organizer: National Chiao Tung University
-
-Location: BCC＠Berlin, Germany
-
-Author: Hong-Yu Chang Wen-Jie Tseng Chia-En Tsai Hsin-Yu ChenRoshan Lalintha Peiris Liwei Chan
-
-Related Links: [paper](https://dl.acm.org/citation.cfm?id=3242588)  [website](https://uist.acm.org/uist2018/)
-
